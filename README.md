@@ -23,7 +23,7 @@
 	  
 
 训练:
-
+    ./get_weight.sh
     ./train.sh
 预测:
 
