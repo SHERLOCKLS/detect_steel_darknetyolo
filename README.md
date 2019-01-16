@@ -20,6 +20,12 @@
     - detect_steel_darknetyolo
 	    train/
 	    test/
+      
+生成训练的label文件
+
+    - python gen_labels.py
+
+将label/文件夹下的文件拷贝到train/目录
 	  
 
 训练:
