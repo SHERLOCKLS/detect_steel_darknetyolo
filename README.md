@@ -14,6 +14,7 @@
     git clone https://github.com/SHERLOCKLS/detect_steel_darknetyolo
     cd detect_steel_darknetyolo
     make -j
+    pip install -r requirements.txt
 下载数据并解压,训练和测试图像分别放到train目录和test目录:
 
     - detect_steel_darknetyolo
