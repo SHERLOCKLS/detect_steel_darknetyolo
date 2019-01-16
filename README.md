@@ -4,7 +4,7 @@
 
 ----------
 ## 2. 依赖
-`pandas`, `tqdm`
+`pandas`, `tqdm` , `numpy`, `opencv`
 
 
 ----------
